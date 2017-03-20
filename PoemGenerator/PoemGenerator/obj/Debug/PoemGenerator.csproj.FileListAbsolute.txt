@@ -1,0 +1,7 @@
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\bin\Debug\Rules.txt
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.exe.config
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.exe
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\bin\Debug\PoemGenerator.pdb
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.csprojResolveAssemblyReference.cache
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.exe
+E:\Projects\C# projects\CodeChallange_DigitalTurbine\CodeChallange_ChainOfResponsibilityPattern\PoemGenerator\PoemGenerator\obj\Debug\PoemGenerator.pdb
